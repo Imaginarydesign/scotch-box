@@ -1,5 +1,5 @@
 <?php 
 
-phpinfo();
+	echo 'Let\'s build something!';
 
- ?>
+?>
